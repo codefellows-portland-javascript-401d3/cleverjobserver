@@ -7,3 +7,5 @@ describe('this app', () => {
   });
 
 });
+
+// doh! should at least have some http API tests for golden path
